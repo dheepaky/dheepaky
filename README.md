@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-<!--
-**dheepaky/dheepaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 <br clear="both">
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dheepaky.dheepaky&right_color=steelblue&left_text=Visits"  />
 </div>
+
+<!--
+**dheepaky/dheepaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 
 Here are some ideas to get you started:
