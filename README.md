@@ -11,7 +11,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dheepaky.dheepaky&right_color=steelblue&left_text=Visits"  />
 </div>
 
-###
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
