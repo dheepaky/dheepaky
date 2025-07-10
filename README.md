@@ -1,5 +1,5 @@
 
-<div align="center" >
+<div align="center" margin-bottom="50px">
   <img src="source/512.gif" width="48" height="48" autoplay"/>
 
 
