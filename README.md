@@ -1,9 +1,9 @@
 <div align="left">
 <img src="source/512.gif" width="48" height="48" autoplay"/>
 </div>
-  
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&pause=1000&color=F7A32C&background=3AFFCF00&multiline=true&repeat=false&random=true&width=474&height=125&lines=Hi+I'M+DEEPAK" alt="Typing SVG" /></a>
-
+</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dheepaky&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=7&order=10" height="450" alt="streak graph"  />
