@@ -16,6 +16,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dheepaky.dheepaky&right_color=steelblue&left_text=Visitors"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheepaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=false" height="245" alt="languages graph"  />
+</div>
 
 <div align="center">
 <h2 align="left">🤝 Connect with me</h2>
@@ -32,10 +35,6 @@
 </div>
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheepaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=false" height="245" alt="languages graph"  />
-</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 <div align="center">
