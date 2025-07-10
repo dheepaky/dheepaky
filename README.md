@@ -1,5 +1,5 @@
 <div align="left">
-<img src="source/512.gif" width="48" height="48" autoplay loop"/>
+<img src="source/512.gif" width="48" height="48" autoplay"/>
 </div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&letterSpacing=0.6px&pause=1000&color=F7C836&background=3AFFCF00&multiline=true&random=true&width=474&height=125&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
