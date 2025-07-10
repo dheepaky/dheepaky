@@ -30,12 +30,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-<hr>
 
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheepaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=false" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheepaky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=false" height="245" alt="languages graph"  />
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
