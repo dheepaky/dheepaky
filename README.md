@@ -1,6 +1,6 @@
 
 
-<div align="center" top="60px">
+<div align="center" top="600px">
   <img src="source/512.gif" width="45" height="45" autoplay"/>
 </div>
 
