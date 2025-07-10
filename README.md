@@ -1,7 +1,7 @@
 
 <div align="center"> 
    <img src="source/512.gif" width="45" height="45" autoplay"/>
-<img src="https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&pause=1000&color=F7A32C&background=3AFFCF00&random=true&width=185&height=55&lines=Hi+I'M+DEEPAK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&pause=1000&color=F7A32C&background=3AFFCF00&random=true&width=185&height=45&lines=Hi+I'M+DEEPAK" alt="Typing SVG" />
 </div>
 
 
