@@ -1,10 +1,9 @@
 
-<div align="center" margin-bottom="50px">
+<div align="center" >
   <img src="source/512.gif" width="48" height="48" autoplay"/>
+</div>
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&pause=1000&color=F7A32C&background=3AFFCF00&multiline=true&random=true&width=474&height=125&lines=Hi+I'M+DEEPAK)](https://git.io/typing-svg)
 
 </div>
 <div align="center">
