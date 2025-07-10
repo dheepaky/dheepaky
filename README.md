@@ -1,6 +1,6 @@
 
 <div align="center" >
-  <img src="source/512.gif" width="48" height="48" left=="30px"autoplay"/>
+  <img src="source/512.gif" width="48" height="48" left="30px"autoplay"/>
   <img src="https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&pause=1000&color=F7A32C&background=3AFFCF00&multiline=true&random=true&width=474&height=125&lines=Hi+I'M+DEEPAK" alt="Typing SVG" />
 </div>
 
