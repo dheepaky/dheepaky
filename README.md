@@ -9,10 +9,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dheepaky&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=7&order=10" height="450" alt="streak graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=dheepaky&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=7&order=10" height="450" alt="streak graph"  /> -->
+[![GitHub Streak](https://github-readme-streak-stats-livid-one.vercel.app?user=dheepaky&theme=rose-pine&border_radius=7&order=10)](https://git.io/streak-stats)
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats-livid-one.vercel.app?user=dheepaky&theme=rose-pine&border_radius=7)](https://git.io/streak-stats)
 
 <br clear="both">
 
