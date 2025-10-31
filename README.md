@@ -10,7 +10,7 @@
 
 <div align="center">
   <!-- <img src="https://streak-stats.demolab.com?user=dheepaky&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=7&order=10" height="450" alt="streak graph"  /> -->
-<img src="https://github-readme-streak-stats-livid-one.vercel.app?user=dheepaky&theme=rose-pine&border_radius=7&card_height=200" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-livid-one.vercel.app?user=dheepaky&theme=rose-pine&border_radius=7" height="450" alt="GitHub Streak" />
 </div>
 
 
