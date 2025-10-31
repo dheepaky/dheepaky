@@ -12,6 +12,8 @@
   <img src="https://streak-stats.demolab.com?user=dheepaky&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=7&order=10" height="450" alt="streak graph"  />
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dheepaky&theme=rose-pine&border_radius=7&card_width=300&card_height=450" alt="GitHub Streak" /></a>
+
 <br clear="both">
 
 <div align="center">
