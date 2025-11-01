@@ -1,10 +1,20 @@
 
 <div align="center"> 
-   <img src="source/hand.gif" width="45" height="45" autoplay  position="relative" "/>
-<img src="https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&duration=5013&pause=1000&color=F79913&background=3AFFCF00&vCenter=true&random=true&width=360&height=40&lines=Hi+I'm+Deepak;Web+Developer+%26+Designer" alt="Typing SVG" />
+  <img src="source/hand.gif" width="45" height="45" style="position: relative;" alt="Waving hand" />
+  <img src="https://readme-typing-svg.demolab.com?font=Mogra&size=27&letterSpacing=0.6px&duration=5013&pause=1000&color=F79913&background=3AFFCF00&vCenter=true&random=true&width=360&height=40&lines=Hi+I'm+Deepak;Web+Developer+%26+Designer" alt="Typing SVG" />
 </div>
 
 
+
+## 👋 About Me
+
+I'm **Deepak**, a passionate **Full Stack MERN Developer** from India 🇮🇳  
+I love creating modern, user-friendly web apps with **clean UI and strong backend logic**.
+
+🚀 **Currently working on:** Real-time Chat App using MERN + Socket.io  
+💬 **Ask me about:** React, Node.js, Express, MongoDB  
+🎯 **Goal:** Build scalable, real-world applications that help people  
+✉️ **Contact:** You can contact me at dhee3257@gmail.com (or) deepakk300712@gmail.com
 
 <br clear="both">
 
