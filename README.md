@@ -8,11 +8,11 @@
 
 ## 👋 About Me
 
-I'm **Deepak**, a passionate **Full Stack MERN Developer** from India 🇮🇳  
+I'm **Deepak**, a passionate **Full Stack MERN Developer**  
 I love creating modern, user-friendly web apps with **clean UI and strong backend logic**.
 
 💬 **Ask me about:** React, Node.js, Express, MongoDB  
-🎯 **Goal:** Build scalable, real-world applications that help people  
+🎯 **Goal:** Build scalable, real-world applications  
 ✉️ **Contact:** You can contact me at dhee3257@gmail.com (or) deepakk300712@gmail.com
 
 <br clear="both">
