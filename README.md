@@ -11,7 +11,7 @@
 I'm **Deepak**, a passionate **Full Stack MERN Developer**  
 I love creating modern, user-friendly web apps with **clean UI and strong backend logic**.
 
-🎯 **Goal:** Build scalable Apps and real-world applications  
+🎯 **Goals:** Build scalable Apps and real-world applications  
 ✉️ **Contact:** You can contact me at dhee3257@gmail.com (or) deepakk300712@gmail.com
 
 <br clear="both">
